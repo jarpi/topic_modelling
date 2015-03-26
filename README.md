@@ -12,4 +12,6 @@ It shows different algorithm approach, TFIDF, LSI and LDA algorithms.
 
 ```demo_sentiment_analyzer```: Run the script and enter a sentence, then it will show it's positive or negative and how much. 
 
+There are many test files, that do mostly the same than those described, so feel free to read them and ask if you have any questions. 
+
 Thanks h4ckademy! You rock guys! 
