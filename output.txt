@@ -1,0 +1,5 @@
+Word: example Value: 2.09861228867
+Word: another Value: 1.69314718056
+Word: aasd Value: 1.69314718056
+Word: sample Value: 1.0
+TOTALTIME: 0:00:00.160862
